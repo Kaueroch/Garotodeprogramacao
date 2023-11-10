@@ -1,9 +1,10 @@
 ### Ola! Eu sou o garotodeprogramação, mas pode me chamar de Kauê
 
 
-- 🔭 Atualmente estou estudando para trabalhar com Front-End
+- 🔭 Atualmente estou estudando para trabalhar com Back-End
 - 🌱 Estudando Java
 - 💬 Contate-me no email kaue.alcan@gmail.com
+- 💬 Atualmente estou colocando projetos de linguagens que vejo na escola e uso para treinar a logica e a linguagem.Vão ser C#,Javascript e Java( quando for me aprofundando cada vez mais!) 
 - 😄 Pronouns: ele/dele
 
 
