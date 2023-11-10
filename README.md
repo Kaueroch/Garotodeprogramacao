@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou estudando para trabalhar com Front-End
-- 🌱 Estudando HTML,CSS e Javascript
+- 🌱 Estudando Java
 - 💬 Contate-me no email kaue.alcan@gmail.com
 - 😄 Pronouns: ele/dele
 
