@@ -4,7 +4,7 @@ Procurando estágio no momento
 - 🔭 Atualmente estou estudando para trabalhar com Back-End
 - 🌱 Estudando Java
 - 💬 Contate-me no email kaue.alcan@gmail.com
-- 💬 Atualmente estou colocando projetos de linguagens que vejo na escola e uso para treinar a logica e a linguagem.Vão ser C#,Javascript e Java( quando for me aprofundando cada vez mais!) 
+- 💬 Atualmente estou colocando projetos de linguagens que vejo na escola e uso para treinar a logica.Vão ser C#,Javascript e Java( quando for me aprofundando cada vez mais!) 
 - 😄 Pronouns: ele/dele
 
 
