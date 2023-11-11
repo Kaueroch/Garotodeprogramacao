@@ -1,5 +1,5 @@
-### Ola! Eu sou o garotodeprogramação, mas pode me chamar de Kauê
-
+### Ola! Sou Kauê Alcantara Rocha, 17 anos.
+Procurando estágio no momento
 
 - 🔭 Atualmente estou estudando para trabalhar com Back-End
 - 🌱 Estudando Java
