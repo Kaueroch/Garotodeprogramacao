@@ -1,9 +1,9 @@
 ### Ola! Sou Kauê Alcantara Rocha, 17 anos.
 Procurando estágio no momento
 
-- 🔭 Atualmente estou estudando para trabalhar com Back-End
+- 🔭 Atualmente estou estudando para ser um desenvolvedor Back-End
 - 🌱 Estudando Java
-- 💬 Contate-me no email kaue.alcan@gmail.com
+- 💬 Contate-me no email: kaue.alcan@gmail.com
 - 💬 Atualmente estou colocando projetos de linguagens que vejo na escola e uso para treinar a logica.Vão ser C#,Javascript e Java( quando for me aprofundando cada vez mais!) 
 - 😄 Pronouns: ele/dele
 
